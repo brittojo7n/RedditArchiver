@@ -16,7 +16,7 @@ To run the project, you need **Python 3.10+** installed on your system.
 3. **Run the script:**
 
    ```sh
-   python reddit_archiver.py
+   python extractor.py
    ```
 
 4. The CLI will interactively ask for the target username and your active `reddit_session` cookie. The downloaded media will be automatically organized into a local `reddit_<username>_archive/` directory.
