@@ -26,6 +26,6 @@ To run the project, you need **Python 3.10+** installed on your system.
 <br>
 <div align="center">
   <a href="https://britto.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit%20Archiver-Made%20By%20Britto-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="RedditArchiver Project Badge" />
+    <img src="https://img.shields.io/badge/Reddit%20Media%20Extractor-Made%20By%20Britto-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Reddit Media Extractor" />
   </a>
 </div>
